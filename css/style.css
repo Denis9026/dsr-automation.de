@@ -388,6 +388,7 @@ h3 { font-size: 1.15rem; margin-bottom: 0.4em; }
 .banner-fig { margin: 0; }
 .banner-fig .photo { height: auto; }
 .banner-fig figcaption { text-align: center; }
+.twin-fig { margin-top: 48px; }
 
 /* ---------- Plan/Realität-Gegenüberstellung ---------- */
 .duo {
